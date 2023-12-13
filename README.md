@@ -33,3 +33,17 @@ A customização no contexto do Tkinter pode incluir:
 
 Para começar, pode ser útil explorar a documentação oficial do Tkinter e procurar por recursos que expliquem como personalizar a interface gráfica. Além disso, pode ser benéfico estudar exemplos de código e projetos que demonstrem a customização do Tkinter em ação.
 
+O tkinter é uma biblioteca de interface gráfica de usuário (GUI) para a linguagem de programação Python. É uma biblioteca nativa do Python, o que significa que não requer nenhuma instalação adicional.
+
+# CARACTERISTICAS:
+## POSITIVAS:
+* **Fácil de aprender e usar:** O tkinter é uma biblioteca relativamente simples de aprender e usar. Possui uma sintaxe clara e concisa, o que o torna acessível a desenvolvedores de todos os níveis de experiência.
+* **Extensível:** O tkinter é uma biblioteca extensível, o que significa que pode ser personalizada para atender às necessidades específicas de um aplicativo. Possui uma ampla gama de widgets e opções de personalização, o que permite criar interfaces gráficas personalizadas.
+* **Portátil:** O tkinter é uma biblioteca portátil, o que significa que pode ser usada em diferentes sistemas operacionais. Isso o torna uma boa escolha para aplicativos que precisam ser portáteis.
+
+## NEGATIVAS:
+* **Não é a biblioteca GUI mais moderna:** O tkinter é uma biblioteca relativamente antiga, o que significa que não é a mais moderna disponível. Existem bibliotecas GUI mais modernas que oferecem recursos e funcionalidades que o tkinter não oferece.
+* **Não é a biblioteca GUI mais rápida:** O tkinter não é a biblioteca GUI mais rápida disponível. Isso pode ser um problema para aplicativos que precisam de desempenho máximo.
+* **Não é a biblioteca GUI mais segura:** O tkinter não é a biblioteca GUI mais segura disponível. Isso pode ser um problema para aplicativos que precisam de segurança máxima.
+
+
