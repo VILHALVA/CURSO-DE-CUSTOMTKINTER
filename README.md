@@ -42,5 +42,6 @@ O tkinter é uma biblioteca de interface gráfica de usuário (GUI) para a lingu
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://github.com/TomSchimansky/CustomTkinter)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+- [VEJA A SINTAXE](./SINTAXE.md)
 
 
