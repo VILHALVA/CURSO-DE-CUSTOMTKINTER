@@ -4,14 +4,13 @@
 <img src="FOTO.png" align="center" width="400"> <br>
 
 ## CONCEITO:
-O termo "CustomTkinter" refere-se a uma abordagem de personalização ou extensão da biblioteca Tkinter em Python. O Tkinter é uma biblioteca padrão de interface gráfica do usuário (GUI) para Python, e ela é construída em cima do toolkit Tk.
+O termo "CustomTkinter" refere-se a uma abordagem de personalização ou extensão da biblioteca Tkinter em Python. O Tkinter é uma biblioteca padrão de interface gráfica do usuário (GUI) para Python, construída em cima do toolkit Tk.
 
-Personalizar o Tkinter permite que você crie interfaces gráficas mais complexas, aprimore o estilo visual dos widgets (elementos da interface, como botões, caixas de texto, etc.) e até mesmo adicione novos componentes ou funcionalidades à biblioteca padrão.
+Personalizar o Tkinter com CustomTkinter permite criar interfaces gráficas mais complexas, aprimorar o estilo visual dos widgets (elementos da interface, como botões, caixas de texto, etc.) e até mesmo adicionar novos componentes ou funcionalidades à biblioteca padrão.
 
-A customização no contexto do Tkinter pode incluir:
-
+## CUSTOMIZAÇÕES POSSÍVEIS COM CUSTOMTKINTER:
 1. **Estilo Visual:**
-   Você pode personalizar a aparência de widgets usando opções de configuração, como cor de fundo, cor do texto, fonte, etc. Além disso, a criação de estilos personalizados para widgets pode ser uma parte essencial da customização.
+   Você pode personalizar a aparência dos widgets usando opções de configuração, como cor de fundo, cor do texto, fonte, etc. Além disso, a criação de estilos personalizados para widgets é uma parte essencial da customização.
 
 2. **Criação de Novos Widgets:**
    É possível criar novos widgets ou componentes que atendam às suas necessidades específicas. Por exemplo, você pode querer criar um widget personalizado para exibir dados de maneira única.
@@ -20,28 +19,47 @@ A customização no contexto do Tkinter pode incluir:
    Personalizar a manipulação de eventos, como cliques de mouse e pressionamentos de teclas, permite que você adapte a interatividade dos seus aplicativos de acordo com as necessidades.
 
 4. **Uso de Módulos ou Frameworks Externos:**
-   Algumas pessoas podem se referir a "CustomTkinter" quando estão usando módulos ou frameworks externos que estendem ou aprimoram o Tkinter de alguma forma.
+   CustomTkinter também permite a integração com módulos ou frameworks externos que estendem ou aprimoram o Tkinter de alguma forma.
 
-Para começar, pode ser útil explorar a documentação oficial do Tkinter e procurar por recursos que expliquem como personalizar a interface gráfica. Além disso, pode ser benéfico estudar exemplos de código e projetos que demonstrem a customização do Tkinter em ação.
+## SUA HISTÓRIA:
+1. **Origem do Tkinter:**
+   - **Tkinter** foi introduzido como a biblioteca padrão de GUI para Python, construída em cima do toolkit Tk. É conhecida por sua simplicidade e facilidade de uso, mas também por suas limitações em termos de design e estética, especialmente quando comparada a outras bibliotecas GUI mais modernas.
 
-O tkinter é uma biblioteca de interface gráfica de usuário (GUI) para a linguagem de programação Python. É uma biblioteca nativa do Python, o que significa que não requer nenhuma instalação adicional.
+2. **Necessidade de Modernização:**
+   - Com o avanço das tecnologias e a crescente demanda por interfaces gráficas mais sofisticadas e personalizadas, surgiu a necessidade de uma extensão que pudesse oferecer recursos adicionais sem comprometer a simplicidade do Tkinter.
 
-## CARACTERISTICAS:
+3. **Criação do CustomTkinter:**
+   - **CustomTkinter** foi criado para preencher essa lacuna. Desenvolvedores individuais e pequenos grupos de entusiastas de Python começaram a trabalhar na biblioteca, focando em adicionar funcionalidades modernas, opções de personalização e aprimoramentos estéticos ao Tkinter.
+
+4. **Primeiras Versões:**
+   - As primeiras versões do CustomTkinter foram lançadas como projetos open-source, permitindo que a comunidade contribuísse e ajudasse a refinar a biblioteca. Esses lançamentos iniciais se concentraram em introduzir temas personalizáveis, suporte a diferentes modos de aparência (como claro e escuro), e widgets adicionais.
+
+5. **Adaptação e Crescimento:**
+   - Com o tempo, a comunidade Python adotou o CustomTkinter, reconhecendo seus benefícios na criação de GUIs mais atraentes e funcionais. A biblioteca começou a ser usada em uma variedade de projetos, desde pequenas aplicações pessoais até sistemas comerciais mais complexos.
+
+6. **Integração com Tecnologias Modernas:**
+   - CustomTkinter evoluiu para integrar-se melhor com outras tecnologias modernas, permitindo a criação de interfaces mais interativas e dinâmicas. Recursos como suporte a temas dinâmicos, widgets animados, e melhores opções de layout foram adicionados.
+
+## CARACTERÍSTICAS:
 ### POSITIVAS:
-* **Fácil de aprender e usar:** O tkinter é uma biblioteca relativamente simples de aprender e usar. Possui uma sintaxe clara e concisa, o que o torna acessível a desenvolvedores de todos os níveis de experiência.
-* **Extensível:** O tkinter é uma biblioteca extensível, o que significa que pode ser personalizada para atender às necessidades específicas de um aplicativo. Possui uma ampla gama de widgets e opções de personalização, o que permite criar interfaces gráficas personalizadas.
-* **Portátil:** O tkinter é uma biblioteca portátil, o que significa que pode ser usada em diferentes sistemas operacionais. Isso o torna uma boa escolha para aplicativos que precisam ser portáteis.
+* **Fácil de aprender e usar:** O CustomTkinter mantém a simplicidade do Tkinter, sendo uma biblioteca relativamente simples de aprender e usar, com sintaxe clara e concisa.
+* **Extensível:** Permite personalização avançada e criação de widgets customizados para atender às necessidades específicas de um aplicativo.
+* **Portátil:** Funciona em diferentes sistemas operacionais, tornando-o uma boa escolha para aplicativos multiplataforma.
 
 ### NEGATIVAS:
-* **Não é a biblioteca GUI mais moderna:** O tkinter é uma biblioteca relativamente antiga, o que significa que não é a mais moderna disponível. Existem bibliotecas GUI mais modernas que oferecem recursos e funcionalidades que o tkinter não oferece.
-* **Não é a biblioteca GUI mais rápida:** O tkinter não é a biblioteca GUI mais rápida disponível. Isso pode ser um problema para aplicativos que precisam de desempenho máximo.
-* **Não é a biblioteca GUI mais segura:** O tkinter não é a biblioteca GUI mais segura disponível. Isso pode ser um problema para aplicativos que precisam de segurança máxima.
+* **Não é a biblioteca GUI mais moderna:** O Tkinter, e por extensão o CustomTkinter, não são as bibliotecas GUI mais modernas disponíveis.
+* **Não é a biblioteca GUI mais rápida:** Pode não ser a mais eficiente em termos de desempenho para aplicativos que requerem máxima performance.
+* **Não é a biblioteca GUI mais segura:** Pode não atender aos requisitos de segurança de aplicações que necessitam de segurança rigorosa.
 
 ## SUBSIDIOS:
 - [CURSO CRIADO PELO "SET PROGRAMAÇÃO"](https://youtube.com/playlist?list=PL6KTZQDPGs5gZYtK9YblxA-Te9wQM8mdb&si=57TCJnH5rxLg1gNy)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
-- [VEJA A DOCUMENTAÇÃO](https://github.com/TomSchimansky/CustomTkinter)
+- [VEJA A DOCUMENTAÇÃO NA WEB](https://customtkinter.tomschimansky.com/)
+- [VEJA A DOCUMENTAÇÃO NO GITHUB](https://github.com/TomSchimansky/CustomTkinter)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+- [BASEADO NO TKINTER](https://github.com/VILHALVA/CURSO-DE-TKINTER)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:CUSTOMTKINTER)
+
 
