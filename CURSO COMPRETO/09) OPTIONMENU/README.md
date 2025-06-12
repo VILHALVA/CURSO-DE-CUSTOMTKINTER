@@ -73,9 +73,3 @@ Este código define uma função chamada `on_opcao_alterada` que imprime a opç�
 * Você pode definir o valor selecionado inicialmente usando o método `set()`.
 * Você pode desabilitar o menu usando o atributo `state`.
 
-Aqui estão alguns recursos para aprender mais sobre `CTkOptionMenu`:
-
-* **Documentação oficial:** [https://github.com/TomSchimansky/CustomTkinter/wiki](https://github.com/TomSchimansky/CustomTkinter/wiki): [https://github.com/TomSchimansky/CustomTkinter/wiki](https://github.com/TomSchimansky/CustomTkinter/wiki)
-* **Código de exemplo:** [https://m.youtube.com/watch?v=wq3I-6DDVPo](https://m.youtube.com/watch?v=wq3I-6DDVPo): [https://m.youtube.com/watch?v=wq3I-6DDVPo](https://m.youtube.com/watch?v=wq3I-6DDVPo)
-
-Ao entender e usar esses recursos, você pode criar menus de opções personalizados e interativos para seus aplicativos customtkinter.

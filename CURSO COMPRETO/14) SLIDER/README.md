@@ -1,5 +1,4 @@
 # SLIDER
-## Slider em CustomTkinter
 `CTkSlider` é um widget em CustomTkinter que permite aos usuários selecionar um valor dentro de um intervalo especificado. É semelhante ao widget `Scale` do Tkinter, mas possui uma aparência mais moderna e personalizável.
 
 Aqui estão as principais características do `CTkSlider`:
@@ -11,7 +10,7 @@ Aqui estão as principais características do `CTkSlider`:
 * **Orientação:** Pode ser horizontal ou vertical.
 * **Eventos:** Fornece eventos para detectar interações do usuário, como arrastar e soltar o cursor.
 
-### Criando um Slider
+## Criando um Slider
 Para criar um slider básico, use o seguinte código:
 
 ```python
@@ -32,7 +31,7 @@ janela.mainloop()
 
 Este código cria uma janela com um slider no centro, permitindo a seleção de valores entre 0 e 100.
 
-### Personalizando o Slider
+## Personalizando o Slider
 Você pode personalizar a aparência do `CTkSlider` usando vários métodos e atributos:
 
 * **`from_`**: Define o valor mínimo do intervalo.
@@ -61,7 +60,7 @@ slider.corner_radius = 5
 
 Este código define o tema como escuro, altera a cor do cursor e do texto para branco, a cor de fundo para #333333, a cor da barra de progresso para verde, a largura da borda para 2 pixels e o arredondamento dos cantos para 5 pixels.
 
-### Eventos
+## Eventos
 O `CTkSlider` fornece eventos como:
 
 * **`<B1-Motion>`**: Evento disparado quando o cursor é arrastado.
@@ -79,8 +78,4 @@ slider.bind("<ValueChanged>", on_slider_change)
 
 Este código define uma função `on_slider_change` que imprime o valor selecionado no console. A função é vinculada ao evento `<ValueChanged>` do `CTkSlider`.
 
-## Recursos adicionais
-* **Documentação oficial:** [https://github.com/TomSchimansky/CustomTkinter/wiki](https://github.com/TomSchimansky/CustomTkinter/wiki)
-* **Tutorial:** [https://m.youtube.com/watch?v=mwalgzuEfvw](https://m.youtube.com/watch?v=mwalgzuEfvw)
 
-Ao entender e usar esses recursos, você pode criar sliders personalizados e interativos para suas aplicações CustomTkinter.

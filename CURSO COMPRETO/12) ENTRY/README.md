@@ -1,5 +1,4 @@
 # ENTRY
-## Entry em CustomTkinter
 `CTkEntry` é um widget em CustomTkinter que permite coletar dados do usuário em sua interface gráfica. É semelhante ao widget `Entry` do Tkinter, mas possui uma aparência mais moderna e personalizável.
 
 Aqui estão as principais características do `CTkEntry`:
@@ -10,7 +9,7 @@ Aqui estão as principais características do `CTkEntry`:
 * **Validação:** Permite validar o texto digitado pelo usuário.
 * **Eventos:** Fornece eventos para detectar interações do usuário, como digitação e pressionamento de teclas.
 
-### Criando uma Caixa de Entrada
+## Criando uma Caixa de Entrada
 Para criar uma caixa de entrada básica, use o seguinte código:
 
 ```python
@@ -31,7 +30,7 @@ janela.mainloop()
 
 Este código cria uma janela com uma caixa de entrada no centro. O usuário pode digitar texto nesta caixa.
 
-### Personalizando a Caixa de Entrada
+## Personalizando a Caixa de Entrada
 Você pode personalizar a aparência do `CTkEntry` usando vários métodos e atributos:
 
 * **`placeholder_text`**: Define o texto exibido na caixa de entrada quando vazia.
@@ -61,7 +60,7 @@ entrada.corner_radius = 5
 
 Este código define um texto de placeholder, oculta o texto digitado como senha, define a largura, tema, cores, fonte, largura da borda e arredondamento dos cantos.
 
-### Validação de Entrada
+## Validação de Entrada
 Você pode validar o texto digitado pelo usuário usando métodos como:
 
 * **`validatecommand`**: Define um comando que será executado quando o texto for alterado.
@@ -84,7 +83,7 @@ entrada.validate = "integer"
 
 Este código define uma função `validate_integer` que verifica se o texto é um número inteiro. A função é então vinculada ao `validatecommand` do `CTkEntry` e o tipo de validação é definido como "integer".
 
-### Eventos
+## Eventos
 O `CTkEntry` fornece eventos como:
 
 * **`<Key>`**: Evento disparado quando uma tecla é pressionada.
